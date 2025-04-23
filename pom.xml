@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                             http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.mycompany</groupId>
+    <artifactId>Spring-Core</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <!-- Add child modules here -->
+        <module>springProgram1XMLConfig</module>
+        <module>springProgram2JavaConfig</module>
+        <module>springProgram3AnnotationConfig</module>
+        <module>springProgram4SetterDI</module>
+        <module>springProgram5ConstructorDI</module>
+        <module>springProgram6SetterDIJavaConfig</module>
+        <module>springProgram7ConstructorDIJavaConfig</module>
+        <module>springProgram8AutowireQualifer</module>
+        <module>springProgram9Autowiring</module>
+        <module>springProgram10AutowiringXML</module>
+        <module>springProgram11SpringJDBC CRUD</module>
+        <module>springProgram12NamedParameterJdbcTemplate</module>
+        <module>springProgram13MVCDesignPattern</module>
+        <module>springProgram14SpringMVC</module>
+        <module>springProgram15SpringMvcWithData</module>
+    </modules>
+
+</project>

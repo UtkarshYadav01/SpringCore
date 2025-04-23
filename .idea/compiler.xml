@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springProgram6SetterDIJavaConfig" />
+        <module name="springProgram11SpringJDBC-CRUD" />
+        <module name="springProgram2JavaConfig" />
+        <module name="springProgram9Autowiring" />
+        <module name="springProgram12NamedParameterJdbcTemplate" />
+        <module name="springProgram8AutowireQualifer" />
+        <module name="springProgram1XMLConfig" />
+        <module name="springProgram4SetterDI" />
+        <module name="springProgram5ConstructorDI" />
+        <module name="springProgram10AutowiringXML" />
+        <module name="springProgram3AnnotationConfig" />
+        <module name="springProgram7ConstructorDIJavaConfig" />
+        <module name="springProgram13MVCDesignPattern" />
+        <module name="springProgram15SpringMvcWithData" />
+        <module name="springProgram14SpringMVC" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring Core" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

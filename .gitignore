@@ -1,0 +1,16 @@
+# Project exclude paths
+/springProgram1XMLConfig/target/
+/springProgram2JavaConfig/target/
+/springProgram3AnnotationConfig/target/
+/springProgram4SetterDI/target/
+/springProgram5ConstructorDI/target/
+/springProgram6SetterDIJavaConfig/target/
+/springProgram7ConstructorDIJavaConfig/target/
+/springProgram8AutowireQualifer/target/
+/springProgram9Autowiring/target/
+/springProgram10AutowiringXML/target/
+/springProgram11SpringJDBC CRUD/target/
+/springProgram12NamedParameterJdbcTemplate/target/
+/springProgram13MVCDesignPattern/target/
+/springProgram14SpringMVC/target/
+/springProgram15SpringMvcWithData/target/

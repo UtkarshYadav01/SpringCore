@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springProgram10AutowiringXML/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram10AutowiringXML/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram11SpringJDBC CRUD/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram11SpringJDBC CRUD/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram12NamedParameterJdbcTemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram12NamedParameterJdbcTemplate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram13MVCDesignPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram13MVCDesignPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram14SpringMVC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram14SpringMVC/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram1XMLConfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram1XMLConfig/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram2JavaConfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram2JavaConfig/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram3AnnotationConfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram3AnnotationConfig/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram4DI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram4DI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram4SetterDI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram4SetterDI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram5ConstructorDI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram5ConstructorDI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram6SetterDIJavaConfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram6SetterDIJavaConfig/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram7ConstructorDIJavaConfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram7ConstructorDIJavaConfig/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram8AutowireQualifer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram8AutowireQualifer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram9Autowiring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springProgram9Autowiring/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

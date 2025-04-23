@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springProgram1XMLConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/springProgram2JavaConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/springProgram3AnnotationConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springProgram7ConstructorDIJavaConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/springProgram6SetterDIJavaConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/springProgram8Autowire/pom.xml" />
+        <option value="$PROJECT_DIR$/springProgram9Autowiring/pom.xml" />
+        <option value="$PROJECT_DIR$/springProgram10AutowiringXML/pom.xml" />
+        <option value="$PROJECT_DIR$/springProgram11SpringJDBC CRUD/pom.xml" />
+        <option value="$PROJECT_DIR$/springProgram12NamedParameterJdbcTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/springProgram13MVCDesignPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/springProgram14SpringMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/springProgram15SpringMvcWithData/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="corretto-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

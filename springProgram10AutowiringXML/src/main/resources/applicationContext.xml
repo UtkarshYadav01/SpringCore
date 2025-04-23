@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--autowire-candidate="false" don't autowire the bean for annotation we use @Qualifier -->
+    <!--autowire="byName" bean id should be equal to the property name
+        byName internally use setter method-->
+    <bean class="com.ucode.X.beans.Address" id="address1" autowire-candidate="false">
+        <property name="houseNo" value="64"/>
+        <property name="city" value="Agra"/>
+        <property name="pinCode" value="282001"/>
+    </bean>
+
+    <!--autowire="byType" matches data type
+        this also use setter methods-->
+
+    <bean class="com.ucode.X.beans.Address" id="address2" autowire-candidate="false">
+        <property name="houseNo" value="642"/>
+        <property name="city" value="Mumbai"/>
+        <property name="pinCode" value="79999"/>
+    </bean>
+
+    <!--autowire="constructor"-->
+    <bean class="com.ucode.X.beans.Address" id="address">
+        <constructor-arg value="642"/>
+        <constructor-arg value="noida"/>
+        <constructor-arg value="79999"/>
+    </bean>
+
+    <!--<bean class="com.ucode.X.beans.Student" id="stdId" autowire="byType">
+        <property name="rollNo" value="101"/>
+        <property name="name" value="Utkarsh"/>
+        &lt;!&ndash;<property name="address" ref="AddrId"/>&ndash;&gt; &lt;!&ndash;manual DI&ndash;&gt;
+    </bean>-->
+
+    <bean class="com.ucode.X.beans.Student" id="stdId" autowire="constructor">
+        <constructor-arg value="104" index="0"/>
+        <constructor-arg value="Sonu" index="1"/>
+    </bean>
+
+</beans>
